@@ -1,9 +1,8 @@
 /*  Rubik's Pocket Cube Solver
-    Author: Varan Shukla
+    Author : Varan Shukla
 
     Call the six sides, as usual:
-       Front Back   Up Down   Left Right
-    or F, B, U, D, L, R.
+    Front(F)	Back(B)	Up(U)	Down(D)	Left(L)	Right(R)
     Permutations:
     We'll number the cubie positions starting
     at 0, front to back, up to down, left to right.
